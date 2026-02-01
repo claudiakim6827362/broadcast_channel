@@ -1,4 +1,4 @@
-** 将 tg 频道打造为个人动态页面 **
+**将 tg 频道打造为个人动态页面**
 
 fork from [miantiao-me
 /BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel/tree/main)
